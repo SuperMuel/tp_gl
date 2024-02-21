@@ -1,0 +1,5 @@
+# ninja log v5
+0	561	7302043137638006	CMakeFiles/tp_gl.dir/lexer.cpp.obj	6065428bfb67a7c5
+21	680	7302043138829750	CMakeFiles/tp_gl.dir/main.cpp.obj	92b1ca7cdf5a0fa8
+11	698	7302043139017416	CMakeFiles/tp_gl.dir/symbole.cpp.obj	f53c3010f6b038be
+698	914	7302043141104796	tp_gl.exe	adbf0c566af73a16
